@@ -2,7 +2,7 @@
   Country languages
 </h1>
 
-## Country List JSON Format
+## Some related stuff
 - 👉 Country [List JSON](https://github.com/ekaone/Country-List)
 - 👉 Country [Flags](https://github.com/ekaone/Country-Flag)
 
